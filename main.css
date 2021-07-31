@@ -1,0 +1,12 @@
+html, body{
+    margin: 0px;
+    }
+html,header{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://image.shutterstock.com/image-vector/world-wildlife-day-animal-junggle-260nw-1909129342.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
